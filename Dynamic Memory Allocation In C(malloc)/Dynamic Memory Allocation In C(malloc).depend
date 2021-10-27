@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635324942 source:/home/reinhard/Memory Management In C/Dynamic Memory Allocation In C(malloc)/main.c
+	<stdio.h>
+	<stdlib.h>
+
