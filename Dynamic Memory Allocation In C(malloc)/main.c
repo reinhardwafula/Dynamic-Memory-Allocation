@@ -14,10 +14,10 @@ int main()
     }
     for(i = 0; i<n; i++){
         printf("Enter an integer: ");
-        scanf("%d", ptr + i);
+        scanf("%d", ptr + i); //1000 + 1(raised to 4) and so on and so forth
     }
     for(i = 0; i<n; i++){
-        printf("%d ", *(ptr+i));
+        printf("%d ", *(ptr+i)); //1000 + 1(raised to 4) and so on and so forth
     }
     return 0;
 }
